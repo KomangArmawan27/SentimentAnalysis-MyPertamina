@@ -8,6 +8,6 @@ This sentiment analysis focuses on classifying the opinions of the Indonesian so
   pip install -r requirements.txt
   ```
 * In the **Read Dataset** section, change the file path to the location where your dataset is stored.
-* In the **Stopwords Removal** section, change the file path to the location where the stopwords.csv is stored.
+* In the **Stopwords Removal** section, change the file path to the location where the file for stopwords is stored.
 * In the **Labeling** section, change the file path to the location where the file for labling is stored.
 * Run all code
